@@ -13,11 +13,10 @@ Dentro de este readme encontrará link's a distintos readme's internos con cada 
 
 ### ALM Syncronizer 
 
- [Instalación ALM Syncronizer]()
+ [Instalación ALM Syncronizer](https://github.com/incluit/ALM/tree/master/ALM/Synchronizer)
 
 ---
 
- [Configuración ALM Syncronizer]()
 
 ### Custom Client
 
