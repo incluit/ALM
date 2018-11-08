@@ -25,6 +25,7 @@ o en castellano
 ![enter image description here](https://github.com/incluit/ALM/blob/master/images/prerequisites/pre1.PNG?raw=true)
 
 > Instrumental de Administración de Windows
+
 ![
 ](https://github.com/incluit/ALM/blob/master/images/prerequisites/pre2.PNG?raw=true)
 #### JDK or JRE
@@ -51,6 +52,7 @@ Descompactará y comenzará a pedir información para la instalación
 Se debe indicar cual es el path donde se encuentra el runtime d java, por ejemplo
 
 > C:\Program Files\Java\jre1.8.0_181
+
 ![
 ](https://github.com/incluit/ALM/blob/master/images/install/3.PNG?raw=true)
 2.  Seleccionar la carpeta
